@@ -1,3 +1,3 @@
-# vigenerecipher.py
-encryption and decryption for Vigenere cipher with python 
-the encryption and decryption I mention above, work when you have a key 
+# classic cryptography
+encryption and decryption  with python 
+the encryption and decryption I mention above,almost work when you have a key 
